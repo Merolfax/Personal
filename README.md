@@ -1,8 +1,6 @@
 # Personal
 Things to do:
 
-Learn to code
-
-Find low level projects to contribute
-
-start a small project
+1. Learn to code
+2. Find low level projects to contribute
+2. start a small project
